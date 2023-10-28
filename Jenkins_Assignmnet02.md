@@ -33,6 +33,8 @@ Topics Covered: (Shell Scripting, Git, Freestyle Job, Paramteters, Upstream/Down
       
       - Publish the content using a web server
   ![Screenshot 2023-10-26 at 11 09 14 PM](https://github.com/c-shantanu/ninja/assets/52127255/f8b39f46-8180-4b48-ba5e-7e152d76eb57)
+        ![image](https://github.com/c-shantanu/ninja/assets/52127255/21112d7c-3ba1-46b4-8acf-d15a2b5c7521)
+
 
       The second job must get triggered automatically only after successful completion of the first job.
   ![Screenshot 2023-10-26 at 11 11 03 PM](https://github.com/c-shantanu/ninja/assets/52127255/9715d489-67d4-4045-ad65-f7ee6c78d781)
@@ -40,3 +42,10 @@ Topics Covered: (Shell Scripting, Git, Freestyle Job, Paramteters, Upstream/Down
       If any of the step fails a Slack and Email notification should be sent.
       If all jobs run successfully Slack and Email notification should be sent.
   ![Screenshot 2023-10-26 at 11 10 19 PM](https://github.com/c-shantanu/ninja/assets/52127255/b13c5fe2-8270-4e28-a1ca-1bae8be050b1)
+
+
+
+
+
+
+      
