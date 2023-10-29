@@ -123,3 +123,5 @@ job('dev-03') {
 
   Point 2:-
   Enable SSO with Google"
+  ![Screenshot 2023-10-29 at 11 51 14 AM](https://github.com/c-shantanu/ninja/assets/52127255/6258bfe0-0f17-4bc7-838c-2f34cbca3e4b)
+
